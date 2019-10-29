@@ -23,3 +23,9 @@
 .card-link{
   color: inherit; 
 }
+.loginBoard{
+  height: 75vh;
+}
+.navbar a:not(.btn):not(.dropdown-item){
+  color: #282c34 !important
+}
